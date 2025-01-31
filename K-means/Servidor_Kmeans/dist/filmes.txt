@@ -1,0 +1,10 @@
+0;Avatar;Century Fox;2009
+1;Titanic;Century Fox/Paramount;1997
+2;Star Wars: O despertar da Forca;Walt Disney Pictures;2015
+3;Jurrasic World;Universal Pictures;2015
+4;Os Vingadores;Walt Disney Pictures;2012
+5;Velozes e Furiosos 7;Universal Pictures;2012
+6;Vingadores: Era de Ultron;Walt Disney Pictures;2015
+7;Harry Potter e as reliquias;Warner Bros;2011
+8;Frozen;Walt Disney Pictures;2013
+9;Homem de Ferro3;Walt disney Pictures;2013

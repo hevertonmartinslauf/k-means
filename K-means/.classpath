@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cliente_kmeans/src"/>
+	<classpathentry kind="src" path="Servidor_Kmeans/src"/>
+	<classpathentry kind="lib" path="cliente_kmeans/dist/Cliente_Kmeans.jar"/>
+	<classpathentry kind="lib" path="Servidor_Kmeans/dist/Servidor_Kmeans.jar"/>
+	<classpathentry kind="output" path="Servidor_Kmeans/build/classes"/>
+</classpath>
